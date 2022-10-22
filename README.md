@@ -15,9 +15,9 @@ Work  on clients’ data to help it understand the primary causes of unfulfilled
  Merge the Two tables
 ## Feature Engineering
  > Generate month, day, week day, and an hour from the trip start time column.
- > Calculate the driver proximity to the order using trip origin and driver location when the driver got the order which is given in lat and lng in the second table.
- > Calculate trip distance and trip duration and then trip speed.
-> [x]I also used the API from https://api.weatherbit.io/v2.0/history/daily? to get the weather at a given location and time-stamp.
+ - Calculate the driver proximity to the order using trip origin and driver location when the driver got the order which is given in lat and lng in the second table.
+ - Calculate trip distance and trip duration and then trip speed.
+-  [x]I also used the API from https://api.weatherbit.io/v2.0/history/daily? to get the weather at a given location and time-stamp.
  Public, school, regional and national holidays are calculated from the trip start time.
 ## Visualization
  * plot driver distance vs acceptance rate
