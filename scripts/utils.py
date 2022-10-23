@@ -1,5 +1,6 @@
 
 import pandas as pd
+from sklearn.preprocessing import LabelEncoder
 
 # Function to calculate missing values by column
 def missing_values_table(df):
@@ -42,3 +43,14 @@ def split_date(df, column):
     df["Is Weekend"] = df.Date.dt.dayofweek > 4
     df['dayofweek'] = df.Date.dt.day_name()
     # df['Is Weekend'].replace({False: 0, True: 1}, inplace=True)
+
+def label_encoder(df:pd.DataFrame,columns:list=None):
+    if columns == None:
+        # columns = df.select_dtypes(exclude = ['number','datetime'])
+        columns = df.select_dtypes(exclude = ['number'])
+    le = LabelEncoder()
+
+    for col in columns:
+        df[col] = le.fit_transform(df[col])
+
+    return df
