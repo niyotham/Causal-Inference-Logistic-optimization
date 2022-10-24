@@ -51,8 +51,28 @@ Caintains separate notebooks for the following purposes:
  - [x] EDA on merged two dasets 
   - [x]  EDA and feature engineering on merged datasets.
  - [x] Causal Inference and Causal Graphs
-Some screenshots from the EDA
+## Some screenshots from the EDA
 Locations of origin for requests
+scripts
+Here you will find methods and functions to ease your data cleaning and data extraction task
+
+## tests
+unit tests for the methods found in scripts directory
+
+## Instalation
+``` 
+clone https://github.com/niyotham/Causal-Inference-Logistic-optimization.git
+cd Causal-Inference-Logistic-optimization
+pip install -r requirements.txt
+
+```
 
 ## Conclusion
 ## Future Works
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+
+
