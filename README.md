@@ -59,6 +59,8 @@ Locations of destination for orders
 ![Locations of desination for trip requests](https://github.com/niyotham/Causal-Inference-Logistic-optimization/blob/main/maps/Destination.png)
 Locations of origin for orders
 ![Locations of origin for trip requests](https://github.com/niyotham/Causal-Inference-Logistic-optimization/blob/main/maps/origin.png)
+
+![Count rejects](https://github.com/niyotham/Causal-Inference-Logistic-optimization/blob/main/screenshots/count_reject.png)
 ## tests
 unit tests for the methods found in scripts directory
 
@@ -70,12 +72,16 @@ pip install -r requirements.txt
 
 ```
 
-## Conclusion
 ## Future Works
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+ - []	Finalize the causal inference model
+ - []	Do more feature engineering and visualizations
+ - []	Improving and implement Logistic optimization
+ - []	Collaborate with domain expert thoughts to create a more meaningful causal graph.
 
-Please make sure to update tests as appropriate.
+## Contributing
+ - [ ]Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+ - [] Please make sure to update tests as appropriate.
 
 
 
