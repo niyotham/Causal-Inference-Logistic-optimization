@@ -52,9 +52,8 @@ Caintains separate notebooks for the following purposes:
   - [x]  EDA and feature engineering on merged datasets.
  - [x] Causal Inference and Causal Graphs
 ## Some screenshots from the EDA
-Locations of origin for requests
-scripts
-![Locations of origin for orders]([http://url/to/img.png](https://github.com/niyotham/Causal-Inference-Logistic-optimization/blob/main/maps/Destination.png))
+Locations of origin for orders]
+![Locations of origin for orders](https://github.com/niyotham/Causal-Inference-Logistic-optimization/blob/main/maps/Destination.png)
 Here you will find methods and functions to ease your data cleaning and data extraction task
 
 ## tests
