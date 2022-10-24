@@ -5,7 +5,7 @@ Work  on clients’ data to help it understand the primary causes of unfulfilled
 ## Business overview
 We will try to answer some interesting question that cannot be answered by just analyzing observational data alone.
 
-These questions can be similar to:
+### These questions can be similar to:
 
 • Given drivers are recommended to move 1km every 30 mins in a selected direction, what happens to the number of unfulfilled requests?
 
@@ -34,6 +34,8 @@ Work  on clients’ data to help client understand the primary causes of unfulfi
  - [x]  plot driver distance vs acceptance rate
  - [x]  plot latitude vs longitude of dirver location
 ## Causal Inference
+- [x] Used [causalnex libary](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html) to build structural model
+- [x] generarated some graphs
 
 ## Conclusion
 ## Future Works
