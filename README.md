@@ -73,15 +73,15 @@ pip install -r requirements.txt
 ```
 
 ## Future Works
- - []	Finalize the causal inference model
- - []	Do more feature engineering and visualizations
- - []	Improving and implement Logistic optimization
- - []	Collaborate with domain expert thoughts to create a more meaningful causal graph.
+ - [ ]	Finalize the causal inference model
+ - [ ]	Do more feature engineering and visualizations
+ - [ ]	Improving and implement Logistic optimization
+ - [ ]	Collaborate with domain expert thoughts to create a more meaningful causal graph.
 
 ## Contributing
  - [ ]Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
- - [] Please make sure to update tests as appropriate.
+ - [ ] Please make sure to update tests as appropriate.
 
 
 
