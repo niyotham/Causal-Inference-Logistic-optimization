@@ -5,4 +5,5 @@ plotly==5.10.0
 pyct==0.4.8
 scipy==1.9.3
 seaborn==0.12.1
-sklearn
+sklearn ==0.20
+causalnex==0.11.o
