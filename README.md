@@ -36,6 +36,23 @@ Work  on clients’ data to help client understand the primary causes of unfulfi
 ## Causal Inference
 - [x] Used [causalnex libary](https://causalnex.readthedocs.io/en/latest/03_tutorial/01_first_tutorial.html) to build structural model
 - [x] generarated some graphs
+## Folder Structure
+
+###  maps
+ - [x] generated maps screenshots from this project  are found here
+ 
+ ###  screenshots
+ Folder caointing information about structural model of the causalnex network and visualization
+
+### notebooks
+Caintains separate notebooks for the following purposes:
+
+ - [x] EDA on  separate datsets 
+ - [x] EDA on merged two dasets 
+  - [x]  EDA and feature engineering on merged datasets.
+ - [x] Causal Inference and Causal Graphs
+Some screenshots from the EDA
+Locations of origin for requests
 
 ## Conclusion
 ## Future Works
